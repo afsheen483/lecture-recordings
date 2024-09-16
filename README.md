@@ -18,3 +18,8 @@ https://www.linkedin.com/feed/update/urn:li:activity:7227748535314616320/
 
 ## DSA Session: https://shorturl.at/FU1Hj
 - **Topic**: Data Structure ans Algorithms
+## Meta Hacker Cup 2024
+https://youtu.be/ZNaPhfuuz2g?si=I52CSp_o2nLcDwak
+
+## My Journey in web development
+https://fb.watch/us44rPXzJu/
